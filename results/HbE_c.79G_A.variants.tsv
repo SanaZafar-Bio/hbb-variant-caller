@@ -1,0 +1,2 @@
+sample	type	pos_1based_vcf	ref	alt	hgvs_c	consequence	hgvs_p	known_rsid	known_label	context
+HbE_c.79G>A	SNP	129	G	A	c.79G>A	missense_variant	p.Glu27Lys	rs33950507	HbE	TTGGTGGT[G>A]AGGCCCTG

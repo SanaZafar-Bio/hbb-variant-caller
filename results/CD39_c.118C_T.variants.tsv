@@ -1,0 +1,2 @@
+sample	type	pos_1based_vcf	ref	alt	hgvs_c	consequence	hgvs_p	known_rsid	known_label	context
+CD39_c.118C>T	SNP	168	C	T	c.118C>T	stop_gained	p.Gln40Ter	rs11549407	codon 39 (C>T) nonsense, beta-thalassemia	CTTGGACC[C>T]AGAGGTTC

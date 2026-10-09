@@ -1,0 +1,2 @@
+sample	type	pos_1based_vcf	ref	alt	hgvs_c	consequence	hgvs_p	known_rsid	known_label	context
+CD8-9_c.27dup	insertion	77	-	G	c.27dup	frameshift_variant	p.Ser10Valfs*14	rs35699606	codon 8/9 (+G) frameshift, beta-thalassemia	GAGGAGAA[->G]GTCTGCCG

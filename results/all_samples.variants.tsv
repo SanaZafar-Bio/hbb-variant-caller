@@ -1,0 +1,11 @@
+sample	type	pos_1based_vcf	ref	alt	hgvs_c	consequence	hgvs_p	known_rsid	known_label	context
+HbS_c.20A>T	SNP	70	A	T	c.20A>T	missense_variant	p.Glu7Val	rs334	HbS (sickle cell variant)	GACTCCTG[A>T]GGAGAAGT
+HbC_c.19G>A	SNP	69	G	A	c.19G>A	missense_variant	p.Glu7Lys	rs33930165	HbC	TGACTCCT[G>A]AGGAGAAG
+HbE_c.79G>A	SNP	129	G	A	c.79G>A	missense_variant	p.Glu27Lys	rs33950507	HbE	TTGGTGGT[G>A]AGGCCCTG
+CD39_c.118C>T	SNP	168	C	T	c.118C>T	stop_gained	p.Gln40Ter	rs11549407	codon 39 (C>T) nonsense, beta-thalassemia	CTTGGACC[C>T]AGAGGTTC
+CD8-9_c.27dup	insertion	77	-	G	c.27dup	frameshift_variant	p.Ser10Valfs*14	rs35699606	codon 8/9 (+G) frameshift, beta-thalassemia	GAGGAGAA[->G]GTCTGCCG
+CD41-42_c.126_129del	deletion	174	TTCT	-	c.126_129del	frameshift_variant	p.Phe42Leufs*19	rs80356821	codon 41/42 (-CTTT) frameshift, beta-thalassemia	CCCAGAGG[TTCT>-]TTGAGTCC
+multi_c.9T>C+c.79G>A+c.126_129del	SNP	59	T	C	c.9T>C	synonymous_variant	p.His3=	rs713040	codon 3 (T>C) synonymous, benign	ATGGTGCA[T>C]CTGACTCC
+multi_c.9T>C+c.79G>A+c.126_129del	SNP	129	G	A	c.79G>A	missense_variant	p.Glu27Lys	rs33950507	HbE	TTGGTGGT[G>A]AGGCCCTG
+multi_c.9T>C+c.79G>A+c.126_129del	deletion	174	TTCT	-	c.126_129del	frameshift_variant	p.Phe42Leufs*19	rs80356821	codon 41/42 (-CTTT) frameshift, beta-thalassemia	CCCAGAGG[TTCT>-]TTGAGTCC
+HbS_reverse_complemented	SNP	70	A	T	c.20A>T	missense_variant	p.Glu7Val	rs334	HbS (sickle cell variant)	GACTCCTG[A>T]GGAGAAGT

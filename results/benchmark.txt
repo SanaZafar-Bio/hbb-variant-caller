@@ -1,0 +1,7 @@
+Simulation benchmark on NM_000518.5: 500 replicates, seed 2026
+type        truth  found  missed  false+   recall  precision
+SNP           708    708       0       0    1.000      1.000
+insertion     383    383       0       0    1.000      1.000
+deletion      367    367       0       0    1.000      1.000
+Calls rebuild the sample exactly in 500/500 replicates
+CAVEAT: simulated, single clean sequences with well-separated variants. Real data are harder.

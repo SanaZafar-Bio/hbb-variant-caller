@@ -1,0 +1,9 @@
+##fileformat=VCFv4.2
+##source=variant_caller.py (CD39_c.118C>T)
+##contig=<ID=NM_000518.5,length=628>
+##INFO=<ID=TYPE,Number=1,Type=String,Description="Variant type">
+##INFO=<ID=HGVSC,Number=1,Type=String,Description="HGVS c. name (3-prime rule)">
+##INFO=<ID=CSQ,Number=1,Type=String,Description="Predicted consequence">
+##INFO=<ID=HGVSP,Number=1,Type=String,Description="Predicted protein change">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+NM_000518.5	168	rs11549407	C	T	.	PASS	TYPE=SNP;HGVSC=c.118C>T;CSQ=stop_gained;HGVSP=p.Gln40Ter

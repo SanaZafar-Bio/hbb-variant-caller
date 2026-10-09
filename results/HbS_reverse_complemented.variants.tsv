@@ -1,0 +1,2 @@
+sample	type	pos_1based_vcf	ref	alt	hgvs_c	consequence	hgvs_p	known_rsid	known_label	context
+HbS_reverse_complemented	SNP	70	A	T	c.20A>T	missense_variant	p.Glu7Val	rs334	HbS (sickle cell variant)	GACTCCTG[A>T]GGAGAAGT

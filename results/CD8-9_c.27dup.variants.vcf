@@ -1,0 +1,9 @@
+##fileformat=VCFv4.2
+##source=variant_caller.py (CD8-9_c.27dup)
+##contig=<ID=NM_000518.5,length=628>
+##INFO=<ID=TYPE,Number=1,Type=String,Description="Variant type">
+##INFO=<ID=HGVSC,Number=1,Type=String,Description="HGVS c. name (3-prime rule)">
+##INFO=<ID=CSQ,Number=1,Type=String,Description="Predicted consequence">
+##INFO=<ID=HGVSP,Number=1,Type=String,Description="Predicted protein change">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+NM_000518.5	76	rs35699606	A	AG	.	PASS	TYPE=insertion;HGVSC=c.27dup;CSQ=frameshift_variant;HGVSP=p.Ser10Valfs*14

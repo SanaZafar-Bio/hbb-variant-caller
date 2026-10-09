@@ -1,0 +1,4 @@
+sample	type	pos_1based_vcf	ref	alt	hgvs_c	consequence	hgvs_p	known_rsid	known_label	context
+multi_c.9T>C+c.79G>A+c.126_129del	SNP	59	T	C	c.9T>C	synonymous_variant	p.His3=	rs713040	codon 3 (T>C) synonymous, benign	ATGGTGCA[T>C]CTGACTCC
+multi_c.9T>C+c.79G>A+c.126_129del	SNP	129	G	A	c.79G>A	missense_variant	p.Glu27Lys	rs33950507	HbE	TTGGTGGT[G>A]AGGCCCTG
+multi_c.9T>C+c.79G>A+c.126_129del	deletion	174	TTCT	-	c.126_129del	frameshift_variant	p.Phe42Leufs*19	rs80356821	codon 41/42 (-CTTT) frameshift, beta-thalassemia	CCCAGAGG[TTCT>-]TTGAGTCC

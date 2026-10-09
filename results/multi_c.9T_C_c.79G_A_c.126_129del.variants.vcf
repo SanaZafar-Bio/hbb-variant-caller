@@ -1,0 +1,11 @@
+##fileformat=VCFv4.2
+##source=variant_caller.py (multi_c.9T>C+c.79G>A+c.126_129del)
+##contig=<ID=NM_000518.5,length=628>
+##INFO=<ID=TYPE,Number=1,Type=String,Description="Variant type">
+##INFO=<ID=HGVSC,Number=1,Type=String,Description="HGVS c. name (3-prime rule)">
+##INFO=<ID=CSQ,Number=1,Type=String,Description="Predicted consequence">
+##INFO=<ID=HGVSP,Number=1,Type=String,Description="Predicted protein change">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+NM_000518.5	59	rs713040	T	C	.	PASS	TYPE=SNP;HGVSC=c.9T>C;CSQ=synonymous_variant;HGVSP=p.His3%3D
+NM_000518.5	129	rs33950507	G	A	.	PASS	TYPE=SNP;HGVSC=c.79G>A;CSQ=missense_variant;HGVSP=p.Glu27Lys
+NM_000518.5	173	rs80356821	GTTCT	G	.	PASS	TYPE=deletion;HGVSC=c.126_129del;CSQ=frameshift_variant;HGVSP=p.Phe42Leufs*19

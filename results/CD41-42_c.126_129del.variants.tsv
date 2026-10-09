@@ -1,0 +1,2 @@
+sample	type	pos_1based_vcf	ref	alt	hgvs_c	consequence	hgvs_p	known_rsid	known_label	context
+CD41-42_c.126_129del	deletion	174	TTCT	-	c.126_129del	frameshift_variant	p.Phe42Leufs*19	rs80356821	codon 41/42 (-CTTT) frameshift, beta-thalassemia	CCCAGAGG[TTCT>-]TTGAGTCC
